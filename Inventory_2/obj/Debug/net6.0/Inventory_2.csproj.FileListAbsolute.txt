@@ -1,0 +1,14 @@
+C:\Users\vizzamaed\source\repos\Inventory_2\Inventory_2\bin\Debug\net6.0\Inventory_2.exe
+C:\Users\vizzamaed\source\repos\Inventory_2\Inventory_2\bin\Debug\net6.0\Inventory_2.deps.json
+C:\Users\vizzamaed\source\repos\Inventory_2\Inventory_2\bin\Debug\net6.0\Inventory_2.runtimeconfig.json
+C:\Users\vizzamaed\source\repos\Inventory_2\Inventory_2\bin\Debug\net6.0\Inventory_2.dll
+C:\Users\vizzamaed\source\repos\Inventory_2\Inventory_2\bin\Debug\net6.0\Inventory_2.pdb
+C:\Users\vizzamaed\source\repos\Inventory_2\Inventory_2\obj\Debug\net6.0\Inventory_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vizzamaed\source\repos\Inventory_2\Inventory_2\obj\Debug\net6.0\Inventory_2.AssemblyInfoInputs.cache
+C:\Users\vizzamaed\source\repos\Inventory_2\Inventory_2\obj\Debug\net6.0\Inventory_2.AssemblyInfo.cs
+C:\Users\vizzamaed\source\repos\Inventory_2\Inventory_2\obj\Debug\net6.0\Inventory_2.csproj.CoreCompileInputs.cache
+C:\Users\vizzamaed\source\repos\Inventory_2\Inventory_2\obj\Debug\net6.0\Inventory_2.dll
+C:\Users\vizzamaed\source\repos\Inventory_2\Inventory_2\obj\Debug\net6.0\refint\Inventory_2.dll
+C:\Users\vizzamaed\source\repos\Inventory_2\Inventory_2\obj\Debug\net6.0\Inventory_2.pdb
+C:\Users\vizzamaed\source\repos\Inventory_2\Inventory_2\obj\Debug\net6.0\Inventory_2.genruntimeconfig.cache
+C:\Users\vizzamaed\source\repos\Inventory_2\Inventory_2\obj\Debug\net6.0\ref\Inventory_2.dll
